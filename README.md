@@ -1,4 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software
+NAME: GANESH PRABHU J
+
+REGISTER NO: 212223220023
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
