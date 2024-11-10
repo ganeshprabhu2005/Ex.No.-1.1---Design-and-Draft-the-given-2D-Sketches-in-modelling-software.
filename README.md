@@ -2,7 +2,7 @@
 NAME: GANESH PRABHU J
 
 REGISTER NO: 212223220023
-## AIM
+## AIM 
 
 To sketch the given drawing with dimensions using fusion 360 tool.
 
